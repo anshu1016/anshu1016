@@ -2,8 +2,7 @@
 - 👀 I’m interested in Coding..
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on Development.
-- 📫 How to reach me ...Click on
-https://arunshukla.netlify.app/
+
 
 <!---
 anshu1016/anshu1016 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
